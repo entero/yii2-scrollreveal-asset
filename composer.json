@@ -1,10 +1,10 @@
 {
-  "name": "entero/yii2-scrollreveal-asset",
+  "name": "enterosoft/yii2-scrollreveal-asset",
   "type": "yii2-extension",
   "description": "Eii Theme Creative",
   "autoload": {
     "psr-4": {
-      "enterosoft\\scrollreveal\\": "src"
+      "entero\\scrollreveal\\": "src"
     }
   }
 }
