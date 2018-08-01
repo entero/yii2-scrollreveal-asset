@@ -8,6 +8,8 @@
 
 namespace entero\scrollreveal;
 
+use yii\web\AssetBundle;
+
 class ScrollrevealToAsset extends AssetBundle
 {
     public $sourcePath = '@bower/scrollreveal/dist/';

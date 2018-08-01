@@ -3,6 +3,7 @@
   "type": "yii2-extension",
   "description": "ScrollReveal Asset Bundle for yii2",
   "require": {
+    "yiisoft/yii2": "~2.0.0",
     "bower-asset/scrollreveal": "dev-master"
   },
   "autoload": {
