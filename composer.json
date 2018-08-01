@@ -4,7 +4,7 @@
   "description": "Eii Theme Creative",
   "autoload": {
     "psr-4": {
-      "entero\\scrollreveal\\": "src"
+      "enterosoft\\scrollreveal\\": "src"
     }
   }
 }
