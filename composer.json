@@ -1,7 +1,10 @@
 {
   "name": "enterosoft/yii2-scrollreveal-asset",
   "type": "yii2-extension",
-  "description": "Eii Theme Creative",
+  "description": "ScrollReveal Asset Bundle for yii2",
+  "require": {
+    "bower-asset/scrollreveal": "dev-master"
+  },
   "autoload": {
     "psr-4": {
       "entero\\scrollreveal\\": "src"
